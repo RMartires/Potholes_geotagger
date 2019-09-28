@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "882234923022",
+    "firebase_url": "https://potholesgeotagger.firebaseio.com",
+    "project_id": "potholesgeotagger",
+    "storage_bucket": "potholesgeotagger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882234923022:android:2a036be60a1620a6f0845f",
+        "android_client_info": {
+          "package_name": "com.example.rohit.potholes_geotagger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882234923022-e7lpesls4sa1jpuh0f58bnhijm25kv9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohit.potholes_geotagger",
+            "certificate_hash": "35d75a244d059b20f86f8347e02809115ec5ac81"
+          }
+        },
+        {
+          "client_id": "882234923022-ms3m2pst8r45qo6fsumpvcrum6aqqgc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDewrjNPl9jYjjx6QQ7SU2Bm_6OV0or98E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882234923022-ms3m2pst8r45qo6fsumpvcrum6aqqgc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
